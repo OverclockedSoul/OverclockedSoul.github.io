@@ -1,3 +1,5 @@
+![alt text](/assets/images/tinder.png)
+
 Como de costumbre me despierto en la oscuridad de la noche. Los recuerdos del instituto invaden mi mente, recuerdo vivamente aquellos momentos en los que me sonrojaba y temblaba frente a todas las chicas de mi edad. Sus miradas de confusión y lástima están dolorosamente grabadas en mi memoria. Y lo peor venía después, cuando las oía burlarse de mí a mis espaldas, riéndose de mi torpeza y mi incapacidad para articular una frase coherente.
 
 Ya desde pequeño comprendí que no solo era un desastre en la fachada, sino que en el fondo tampoco tenía nada que ofrecer. Mi personalidad insípida y mi falta de habilidades sociales me convirtieron en un ser invisible, alguien con quien nadie quería relacionarse. Quizás con mi soledad he hecho un favor al mundo. Después de todo, ¿quién querría cargar con el peso muerto que soy yo? A veces culpo a la superficialidad de la sociedad de mi desgracia, pero en el fondo, sé que yo soy el único responsable de mi desdicha. 

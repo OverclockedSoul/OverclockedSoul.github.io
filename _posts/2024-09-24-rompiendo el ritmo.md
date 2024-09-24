@@ -1,3 +1,6 @@
+![alt text](/assets/images/run.png) 
+
+
 Marcos se sentó en su escritorio y miró fijamente la pantalla. Era otro día en la oficina, otro día más vendiendo ilusiones. Como estratega de marketing, su trabajo consistía en encontrar formas creativas de manipular los deseos y las inseguridades de las personas, todo en nombre del beneficio empresarial.
 
 Al principio, el trabajo había sido emocionante. Marcos disfrutaba del desafío intelectual de craftar mensajes persuasivos, de encontrar formas de manipular el inconsciente de los consumidores. Pero después de un año en el trabajo, comenzó a sentir la futilidad de todo. Veía cómo la gente a su alrededor, incluyéndose a sí mismo, intentaba llenar los vacíos de sus vidas con posesiones materiales. Pero estos objetos nunca saciaban el alma. Siempre había un nuevo producto, una nueva pieza para completar el rompecabezas infinito de la felicidad comprada.
