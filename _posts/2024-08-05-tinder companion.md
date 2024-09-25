@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Tinder companion"
-date: 2024-09-24
-category: relato
+categories: relato
 ---
 
 ![alt text](/assets/images/tinder.png)

@@ -1,6 +1,6 @@
 ---
-layout: category
-title: Ciclismo
-permalink: /ciclismo/
+layout: home
+title: "Ciclismo"
 category: ciclismo
+permalink: /ciclismo/
 ---
