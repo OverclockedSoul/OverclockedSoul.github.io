@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/rompiendo-el-ritmo/</loc>
+<loc>http://localhost:4000/relato/rompiendo-el-ritmo/</loc>
 <lastmod>2024-09-24T00:00:00+02:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/tinder-companion/</loc>
+<loc>http://localhost:4000/relato/tinder-companion/</loc>
 <lastmod>2024-09-24T00:00:00+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/2048</loc>
 </url>
 <url>
 <loc>http://localhost:4000/ciclismo/</loc>
@@ -15,7 +18,6 @@
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/2048.html</loc>
-<lastmod>2024-09-25T18:09:43+02:00</lastmod>
+<loc>http://localhost:4000/relatos/</loc>
 </url>
 </urlset>

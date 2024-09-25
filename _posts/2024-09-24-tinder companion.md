@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Tinder companion"
+date: 2024-09-24
+category: relato
+---
+
 ![alt text](/assets/images/tinder.png)
 
 Como de costumbre me despierto en la oscuridad de la noche. Los recuerdos del instituto invaden mi mente, recuerdo vivamente aquellos momentos en los que me sonrojaba y temblaba frente a todas las chicas de mi edad. Sus miradas de confusión y lástima están dolorosamente grabadas en mi memoria. Y lo peor venía después, cuando las oía burlarse de mí a mis espaldas, riéndose de mi torpeza y mi incapacidad para articular una frase coherente.

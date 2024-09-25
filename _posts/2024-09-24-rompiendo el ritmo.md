@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Rompiendo el ritmo"
+date: 2024-09-24
+category: relato
+---
+
 ![alt text](/assets/images/run.png) 
 
 

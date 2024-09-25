@@ -1,7 +1,8 @@
-main:
-  - title: "Home"
-    url: "/"
-  - title: "Evil 2048"
-    url: "/2048/"
-  - title: ciclismo
-    url: /ciclismo/
+- title: "Home"
+  url: "/"
+- title: "Evil 2048"
+  url: "/2048"
+- title: ciclismo
+  url: /ciclismo/
+- title: relatos
+  url: /relatos/
