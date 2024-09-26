@@ -1,6 +1,6 @@
 var store = [{
         "title": "Tour bici por Marruecos",
-        "excerpt":" ","categories": ["ciclismo"],
+        "excerpt":"  ","categories": ["ciclismo"],
         "tags": [],
         "url": "http://localhost:4000/ciclismo/tour-bici-marruecos/"
       },{
