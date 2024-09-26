@@ -104,8 +104,3 @@ footer_links:
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
-
-kramdown:
-  input: GFM
-  hard_wrap: false
-  parse_block_html: true
