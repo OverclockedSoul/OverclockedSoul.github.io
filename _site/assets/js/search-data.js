@@ -1,6 +1,6 @@
 var store = [{
         "title": "Tour bici por Marruecos",
-        "excerpt":" 30 dias viajando en bici por marruecos ","categories": ["ciclismo"],
+        "excerpt":" ","categories": ["ciclismo"],
         "tags": [],
         "url": "http://localhost:4000/ciclismo/tour-bici-marruecos/"
       },{
