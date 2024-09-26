@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Rompiendo el ritmo"
-category: relato
+category: relatos
 ---
 
 ![alt text](/assets/images/run.png) 
