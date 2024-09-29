@@ -3,4 +3,5 @@ layout: default
 title: Sobre mi
 permalink: /about/
 ---
-Me ll
+
+![center-aligned-image](/assets/images/brain_2.jpeg){: .align-center}

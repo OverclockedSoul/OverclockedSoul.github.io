@@ -1,10 +1,8 @@
-- title: "Home"
+- title: "Relatos"
   url: "/"
 - title: "Evil 2048"
   url: "/2048"
 - title: ciclismo
   url: /ciclismo/
-- title: relatos
-  url: /relatos/
 - title: "Sobre mi"
   url: /about/
