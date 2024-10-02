@@ -6,11 +6,11 @@ categories: relatos
 
 ![alt text](/assets/images/conexiones_virtuales.jpeg)
 
-Ana estaba en la biblioteca traduciendo para su trabajo. Se había licenciado en filosofía y traducir era el único trabajo que le agradaba. La tranquilidad de la biblioteca era el ambiente ideal para su labor.
+Ana estaba en la biblioteca traduciendo para su trabajo. Se había licenciado en filosofía y traducir era la única parte de su trabajo que le gustaba. La tranquilidad de la biblioteca era el ambiente ideal para su labor.
 
 Ella vivía con su pareja, un hombre muy deportivo con el que disfrutaban de las noches, pero con el que no eran muy compatibles a nivel intelectual. Aunque se divertían juntos y tenían buena química, ella sentía que faltaba profundidad en su relación. Mientras ella disfrutaba de conversaciones estimulantes sobre literatura y arte, a su pareja le interesaban más el futbol y la fiesta. Estas diferencias hacían que Ana se sintiera un poco sola a veces. Sin embargo, valoraba los aspectos positivos de su relación y era capaz de pasárselo bien con él.
 
-Lo que no obtenía de esta relación lo obtenía de su amigo virtual. Se trataba de una persona bajo el pseudónimo de Zombie. Alguien que había conocido en la plataforma 7cups. En ese espacio virtual, Ana le había hablado a Zombie la superficialidad de su pareja, mientras que Zombie, por su parte, le habló de su síndrome del impostor y de su incapacidad para expresar sus ideas y sentimientos. 
+Lo que no obtenía de esta relación lo obtenía de su amigo virtual. Se trataba de una persona bajo el pseudónimo de Zombie. Alguien que había conocido en la plataforma 7cups. En ese espacio virtual, Ana le había hablado a Zombie de la superficialidad de su pareja, mientras que Zombie, por su parte, le habló de su síndrome del impostor y de su incapacidad para expresar sus ideas y sentimientos. 
 
 A través de estas conversaciones conectaron y consiguieron hablar de lo que nunca hablaban con nadie más. Zombie se convirtió en un ancla emocional para Ana, dándole las conversaciones profundas que tanto le faltaban.
 
