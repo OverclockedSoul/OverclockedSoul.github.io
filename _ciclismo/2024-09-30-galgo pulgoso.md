@@ -4,7 +4,7 @@ title: "El Galgo Pulgoso"
 categories: ciclismo
 ---
 
-![alt text](/assets/images/galgo_pulgoso/image.png)
+![alt text4](/assets/images/galgo_pulgoso/IMG_5583.JPEG)
 
 El galgo pulgoso es una bici de carretera que compre por 300€ de segunda mano, era así nueva:
 
