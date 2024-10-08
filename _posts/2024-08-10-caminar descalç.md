@@ -4,6 +4,7 @@ title: "Caminar descalç"
 categories: relatos
 ---
 
+![alt text](/assets/images/peus.jpg)
 
 Saps per què m’agrada caminar descalç. Sembla una bogeria, però a mi em relaxa. No tenir que buscar les sabates, tenir que trobar els mitjons nets i que a més a més si no encaixen la gent et miren pitjor. 
 
