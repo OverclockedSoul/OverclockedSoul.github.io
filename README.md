@@ -1,3 +1,3 @@
-# Personal webpage
+# Web personal
 
-In this webpage I will add stories, blogs, interesting videogames, book recommendations.
+Web sobre les meves coses
