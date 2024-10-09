@@ -110,3 +110,9 @@ collections:
   ciclismo:
     output: true
     permalink: /:collection/:path/
+
+# Collections
+collections:
+  science:
+    output: true
+    permalink: /:collection/:path/
