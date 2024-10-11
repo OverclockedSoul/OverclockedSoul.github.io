@@ -4,5 +4,7 @@
   url: "/2048"
 - title: ciclismo
   url: /ciclismo/
+- title: science
+  url: /science/
 - title: "Sobre mi"
   url: /about/
